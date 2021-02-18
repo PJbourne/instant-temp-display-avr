@@ -10,3 +10,6 @@ There are two situations I changed, both had a red and black CROSS and a CIRCLE 
 
 ![imagem](https://github.com/PJbourne/instant-temp-display-avr/blob/main/photo_2021-02-18_12-55-13.jpg)
 
+Using allcaline battery bank (6v) + resistor and potentiometer to set the needed 5v (I have not a LM7805 for now)
+
+![imagem3](https://github.com/PJbourne/instant-temp-display-avr/blob/main/source-battery.jpeg)
