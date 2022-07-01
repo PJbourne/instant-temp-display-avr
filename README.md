@@ -2,7 +2,7 @@
 Shows real time temperaute on display + what button is pressed
 
 See eletronic diagram below.
-There are two situations I changed, both had a red and black CROSS and a CIRCLE under them. One is the 'Vo - display contrast' (exclude the diode and keep that open); Other is the 'Anode - display backlight (there is not parallel resistor, just only one)' 
+There are two situations I changed. Both have a red and black CROSS and CIRCLE over them. One is the 'Vo - display contrast' (exclude the diode and keep that open); Other is the 'Anode - display backlight (there are no parallel resistor, just only one alone)' 
 
 ![imagem2](https://github.com/PJbourne/instant-temp-display-avr/blob/main/photo_2021-02-18_13-33-24.jpg)
 
